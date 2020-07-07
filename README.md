@@ -5,7 +5,7 @@ Home: https://CRAN.R-project.org/package=RWeka
 
 Package license: GPL-2
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: An R interface to Weka (Version 3.9.3). Weka is a collection of machine learning algorithms for data mining tasks written in Java, containing tools for data pre-processing, classification, regression, clustering, association rules, and visualization.  Package 'RWeka' contains the interface code, the Weka jar is in a separate package 'RWekajars'.  For more information on Weka see <http://www.cs.waikato.ac.nz/ml/weka/>.
 
