@@ -3,7 +3,7 @@ About r-rweka
 
 Home: https://CRAN.R-project.org/package=RWeka
 
-Package license: GPL-2
+Package license: GPL-2.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rweka-feedstock/blob/master/LICENSE.txt)
 
